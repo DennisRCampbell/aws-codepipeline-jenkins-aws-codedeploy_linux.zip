@@ -18,4 +18,3 @@ class JenkinsSampleTest < MiniTest::Unit::TestCase
     assert(@webpage =~ /Congratulations/)
   end
 end
-
